@@ -402,7 +402,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Cɪɴᴇᴍᴀ Sᴛᴇʟʟᴀʀ', url='https://t.me/Cinema_Stellar_talks'),
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('FILTERS', callback_data='filterz'),
+            InlineKeyboardButton('FILTERS', callback_data='filterz0'),
             ],[
             InlineKeyboardButton('Mʏ Pʀᴏғɪʟᴇ', url='https://telegra.ph/file/d1bf0c0b166b4ba50c0ca.jpg'),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ', url='https://t.me/+2II-zW8UCLw4ZTFl'),
@@ -435,13 +435,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-             elif query.data == "FILTERS":
+             elif query.data == "filterz0":
         buttons= [[
             InlineKeyboardButton('Aᴅᴅ Mᴇ Tᴏ Gʀᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
             InlineKeyboardButton('Cɪɴᴇᴍᴀ Sᴛᴇʟʟᴀʀ', url='https://t.me/Cinema_Stellar_talks'),
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('FILTERS', callback_data='ERCEL')
+            InlineKeyboardButton('FILTERS', callback_data='filterz0')
             ],[
             InlineKeyboardButton('Mʏ Pʀᴏғɪʟᴇ', url='https://telegra.ph/file/d1bf0c0b166b4ba50c0ca.jpg'),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ', url='https://t.me/+2II-zW8UCLw4ZTFl'),
@@ -463,7 +463,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Cɪɴᴇᴍᴀ Sᴛᴇʟʟᴀʀ', url='https://t.me/Cinema_Stellar_talks'),
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('FILTERS', callback_data='ERCEL')
+            InlineKeyboardButton('FILTERS', callback_data='filterz0')
             ],[
             InlineKeyboardButton('Mʏ Pʀᴏғɪʟᴇ', url='https://telegra.ph/file/d1bf0c0b166b4ba50c0ca.jpg'),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ', url='https://t.me/+2II-zW8UCLw4ZTFl'),
