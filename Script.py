@@ -10,6 +10,9 @@ Tʜᴇsᴇ Aʀᴇ Tʜᴇ Aᴠᴀɪʟᴀʙʟᴇ Lɪsᴛ Oғ Mʏ Cᴏᴍᴍᴀɴ�
   ✫ Lᴀɴɢᴜᴀɢᴇ:  𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
   ✫ Dᴀᴛᴀ Bᴀsᴇ:  𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
   ✫ Bᴏᴛ Sᴇʀᴠᴇʀ:  𝙷𝙴𝚁𝙾𝙺𝚄"""
+    FILTERZ_TXT = """Hello {},
+    𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 𝗮𝗿𝗲 𝗶𝗻 𝗺𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲..
+    𝘐 𝘸𝘪𝘭𝘭 𝘭𝘦𝘵 𝘺𝘰𝘶 𝘬𝘯𝘰𝘸 𝘸𝘩𝘦𝘯 𝘵𝘩𝘪𝘴 𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯 𝘪𝘴 𝘳𝘦𝘢𝘥𝘺..."""
     SOURCE_TXT = """<b>NOTE:</b>
 - Ercel is a clone of Eva Maria - a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
