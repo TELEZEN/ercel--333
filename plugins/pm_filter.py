@@ -435,7 +435,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-             elif query.data == "ERCEL":
+             elif query.data == "FILTERS":
         buttons= [[
             InlineKeyboardButton('Aᴅᴅ Mᴇ Tᴏ Gʀᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
             InlineKeyboardButton('Cɪɴᴇᴍᴀ Sᴛᴇʟʟᴀʀ', url='https://t.me/Cinema_Stellar_talks'),
