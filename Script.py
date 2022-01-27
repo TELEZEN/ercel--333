@@ -3,14 +3,14 @@ class script(object):
         Mʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>,【Pʟᴇᴀsᴇ ᴜsᴇ ᴛʜᴇ ʙᴇʟᴏᴡ ᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ】"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Tʜᴇsᴇ Aʀᴇ Tʜᴇ Aᴠᴀɪʟᴀʙʟᴇ Lɪsᴛ Oғ Mʏ Cᴏᴍᴍᴀɴᴅs."""
-    ABOUT_TXT = """I AM: {}
+    filterz_TXT = """I AM: {}
   ✫ Cʀᴇᴀᴛᴏʀ:  <a href=@Lisa_My_Lub>Arjun Pradeep</a>
   ✫ Bᴏᴛ Uᴘᴅᴀᴛᴇs:  <a href=https://t.me/+WqhO2sfnZxcxYjk1>ERCEL</a>
   ✫ Lɪʙʀᴀʀʏ:  𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
   ✫ Lᴀɴɢᴜᴀɢᴇ:  𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
   ✫ Dᴀᴛᴀ Bᴀsᴇ:  𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
   ✫ Bᴏᴛ Sᴇʀᴠᴇʀ:  𝙷𝙴𝚁𝙾𝙺𝚄"""
-    ERCEL_TXT = """I AM: {}
+    ABOUT_TXT = """I AM: {}
   𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, 𝗙𝗶𝗹𝘁𝗲𝗿𝘀 𝗮𝗿𝗲 𝗶𝗻 𝗺𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲..  
   𝘐 𝘸𝘪𝘭𝘭 𝘭𝘦𝘵 𝘺𝘰𝘶 𝘬𝘯𝘰𝘸 𝘸𝘩𝘦𝘯 𝘵𝘩𝘪𝘴 𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯 𝘪𝘴 𝘳𝘦𝘢𝘥𝘺..."""
     SOURCE_TXT = """<b>NOTE:</b>
